@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+Merge and rebase are very similar in a way as they integrate changes from one branch into another branch. 
